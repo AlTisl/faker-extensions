@@ -1,6 +1,3 @@
-[На русском](.\README_ru.md)  
-[Українською](.\README_ua.md)
-
 # faker_researcher_ids
 
 A Python package extending `Faker` to generate fake author identifiers used in scientific databases and publication tracking systems:

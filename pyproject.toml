@@ -1,15 +1,17 @@
 [project]
 name = "faker_researcher_ids"
-version = "1.0.0"
+version = "0.1.0"
 authors = [
-    {name="Alexander Tislichenko", email="altis1024@gmail.com"}
+    {name="Oleksandr Tislichenko", email="altis1024@gmail.com"}
 ]
 description = "Fake researcher IDs in scientific databases and publication tracking systems"
 readme = "README.md"
 requires-python = ">=3.13"
 classifiers = [
-    "Programming language :: Python :: 3",
-    "Operating System :: OS Independent"
+    "Development Status :: 4 - Beta",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3"
 ]
 license = "MIT"
 license-files = ["LICENSE"]
